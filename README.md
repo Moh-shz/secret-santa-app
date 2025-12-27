@@ -73,13 +73,13 @@ python src/SecretSanta.py
 Secret-Santa-App/
 ├── assets/
 │   ├── images/
-│   │   ├── background.png		        # UI Background image 
+│   │   ├── background.png 
 │   │   ├── icon.ico
 │   │   └── screenshot.jpg
 │   └── demo/
-│       └── secret_santa_results.txt	# Demo 
+│       └── secret_santa_results.txt 
 ├── src/
-│   └── SecretSanta.py			         # The main Python script 
+│   └── SecretSanta.py 
 ├── .gitignore
 ├── LICENSE
 └── README.md
