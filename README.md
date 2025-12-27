@@ -79,7 +79,7 @@ Secret-Santa-App/
 │   └── demo/
 │       └── secret_santa_results.txt	# Demo 
 ├── src/
-│   └── SecretSanta.py			          # The main Python script 
+│   └── SecretSanta.py			         # The main Python script 
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -97,6 +97,6 @@ You can download the standalone **Application Bundle** for macOS (Apple Silicon)
 ## 👤 Author
 
 **Mohammad Sharzehei**  
-Data Science  
+Data Scientist   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msharzehei)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammadsharzehei)
