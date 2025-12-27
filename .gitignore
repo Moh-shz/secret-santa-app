@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Runtime generated files
+/secret_santa_results.txt
